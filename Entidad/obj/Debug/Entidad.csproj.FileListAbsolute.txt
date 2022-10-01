@@ -1,0 +1,6 @@
+D:\Proyectos\Examen\slRevista\Entidad\bin\Debug\Entidad.dll
+D:\Proyectos\Examen\slRevista\Entidad\bin\Debug\Entidad.pdb
+D:\Proyectos\Examen\slRevista\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\Proyectos\Examen\slRevista\Entidad\obj\Debug\Entidad.dll
+D:\Proyectos\Examen\slRevista\Entidad\obj\Debug\Entidad.pdb
+D:\Proyectos\Examen\slRevista\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache

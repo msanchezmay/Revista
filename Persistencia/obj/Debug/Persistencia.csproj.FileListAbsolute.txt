@@ -1,0 +1,11 @@
+D:\Proyectos\Examen\slRevista\Persistencia\bin\Debug\Persistencia.dll
+D:\Proyectos\Examen\slRevista\Persistencia\bin\Debug\Persistencia.pdb
+D:\Proyectos\Examen\slRevista\Persistencia\bin\Debug\DbLibreria.dll
+D:\Proyectos\Examen\slRevista\Persistencia\bin\Debug\Entidad.dll
+D:\Proyectos\Examen\slRevista\Persistencia\bin\Debug\DbLibreria.pdb
+D:\Proyectos\Examen\slRevista\Persistencia\bin\Debug\Entidad.pdb
+D:\Proyectos\Examen\slRevista\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+D:\Proyectos\Examen\slRevista\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\Proyectos\Examen\slRevista\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\Proyectos\Examen\slRevista\Persistencia\obj\Debug\Persistencia.dll
+D:\Proyectos\Examen\slRevista\Persistencia\obj\Debug\Persistencia.pdb
